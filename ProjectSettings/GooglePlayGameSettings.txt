@@ -1,0 +1,9 @@
+lastUpgrade=00950
+proj.pluginVersion=0.9.50
+proj.AppId=519304242203
+and.BundleId=com.manybits.spiders.android
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e519304242203%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.manybits.spiders.android%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Level+10+--%3e%0d%0a++%3cstring+name%3d%22achievement_level_10%22+translatable%3d%22false%22%3eCgkIm8jHx44PEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Level+30+--%3e%0d%0a++%3cstring+name%3d%22achievement_level_30%22+translatable%3d%22false%22%3eCgkIm8jHx44PEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Level+60+--%3e%0d%0a++%3cstring+name%3d%22achievement_level_60%22+translatable%3d%22false%22%3eCgkIm8jHx44PEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Level+90+--%3e%0d%0a++%3cstring+name%3d%22achievement_level_90%22+translatable%3d%22false%22%3eCgkIm8jHx44PEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Level+120+--%3e%0d%0a++%3cstring+name%3d%22achievement_level_120%22+translatable%3d%22false%22%3eCgkIm8jHx44PEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Highest+level+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_highest_level%22+translatable%3d%22false%22%3eCgkIm8jHx44PEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=519304242203-f89digtpgv6upfhn41bku55mrm9mr7jj.apps.googleusercontent.com
+android.SetupDone=true
